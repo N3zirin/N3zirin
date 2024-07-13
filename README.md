@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Nazrin Babayeva and still learning something new about Computing Universe!
 
 - 🔭 I’m currently working on myself and trying to explore more, be professional;
 - 🌱 I’m currently learning Angular & C#.
