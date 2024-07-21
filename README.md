@@ -7,5 +7,4 @@ I'm Nazrin Babayeva and still learning something new about Computing Universe!
 - 🤔 I’m seking for new resources with FrontEnd Development.
 - 💬 Ask me about Algorithms and OOP
 - 📫 How to reach me: babayevanzrin3@gmail.com
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: After everything, I am an artist!
